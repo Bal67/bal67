@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+Britt!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+Britt's+Page!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -25,13 +25,14 @@
 name: Brittany Leslie
 located_in: Durham, NC
 education:
-  - "Undergraduate at Duke University"
+  - "Master's of Engineering in Artificial Intelligence at Duke University"
+  - "Bachelor of Science in Biomolecular Sciences at NYU"
 focus:
   - "AI & Machine Learning"
   - "Generative AI"
   - "Cloud & AWS"
 currently_building: "Streamlit + AWS Bedrock apps"
-2024_goals:
+2025_goals:
   - "Deploy production-grade AI services"
   - "Sharpen full-stack development skills"
 ```
@@ -48,11 +49,6 @@ currently_building: "Streamlit + AWS Bedrock apps"
 
 <img src="docs/Claude_Text_Generator.gif" width="700"/>
 
----
-
-## Contribution Snake
-
-![Snake animation](https://github.com/Bal67/Bal67/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -61,13 +57,15 @@ currently_building: "Streamlit + AWS Bedrock apps"
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45"/>      
 </p>
 
 <p align="center">
