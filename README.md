@@ -23,15 +23,20 @@
 
 ```yaml
 name: Brittany Leslie
-located_in: Durham, NC
+
+located_in: Houston, TX
+
 education:
   - "Master's of Engineering in Artificial Intelligence at Duke University"
   - "Bachelor of Science in Biomolecular Sciences at NYU"
+
 focus:
   - "AI & Machine Learning"
   - "Generative AI"
   - "Cloud & AWS"
+
 currently_building: "Streamlit + AWS Bedrock apps"
+
 2025_goals:
   - "Deploy production-grade AI services"
   - "Sharpen full-stack development skills"
