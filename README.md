@@ -8,9 +8,9 @@ I’m a student at Duke University focused on building practical AI tools using 
 
 ## About Me
 
-- Undergraduate at Duke University
+- Masters of Engineering in Artificial Intelligence Graduate at Duke University
 - Exploring machine learning, natural language processing, and generative AI
-- Experience with AWS Bedrock, OpenAI APIs, LangChain, and Flask/Streamlit
+- Experience with AWS, OpenAI APIs, LangChain, and Flask/Streamlit
 
 ## Featured Projects
 
